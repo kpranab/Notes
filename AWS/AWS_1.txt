@@ -1,0 +1,27 @@
+What is Cloud Computing ?(NIST->National Institute of Standards and Technology)
+	Characteristics
+		On-Demand
+		Broad Network Access
+		Resources Pooling
+		Rapid Elasticity
+		Measures Service
+	Service Models
+		Infrastructure as a Service
+		Software as a Service
+		Platform as a Service
+	Deployment Models
+		Private Cloud
+		Community Cloud
+		Public Cloud
+		
+AWS(Amazon Web Services)
+	Is a Secure cloud platform
+https://aws.amazon.com/quickstart/
+	
+AWS Identity and Access Management
+	Authentication
+	Authorization
+	Users
+	Groups
+	Password Policy
+	Multifactor Authentication
