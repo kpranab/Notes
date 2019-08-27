@@ -1,2 +1,2 @@
 # Notes
-Documents and Notes for AWS machine configuration
+Documents and Notes for AWS machine configuration.
