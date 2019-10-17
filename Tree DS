@@ -1,1 +1,13 @@
+<h3>Binary tree</h3>
+A binary tree is a tree where each node can have at most two children. 
+So a node in binary tree can have only a left child, or a right child, or both or it can have no children which makes it a leaf node.
 
+Binary tree data structure gives the best of both linked list and an ordered array. 
+We can insert and delete nodes fast as in linked list and search a node fast as in an ordered array.
+
+<h3>Binary Search tree</h3>
+In Binary search tree 
+For each node the node’s left child must have a value less than its parent node
+              the node’s right child must have a value greater than or equal to its parent. 
+If we consider the root node of the binary search tree the left subtree must have nodes with values less than the root node 
+and the right subtree must have nodes with values greater than the root node.
